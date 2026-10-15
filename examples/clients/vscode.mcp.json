@@ -1,0 +1,5 @@
+{
+  "servers": {
+    "laplace-mini-world": { "type": "http", "url": "https://world.lapla.si/mcp" }
+  }
+}

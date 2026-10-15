@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "laplace-mini-world": {
+      "command": "npx",
+      "args": ["-y", "mcp-remote", "https://world.lapla.si/mcp"]
+    }
+  }
+}
